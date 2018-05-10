@@ -2,7 +2,11 @@
 This project contains sample code for making calls from a background job to an authenticated Azure function api. This approach user app's access token to connect to API
 
 #### Register an Azure AD app for the Daemon Console Application
-1. Copy the client id and client secret from Azure AD.
+1. Go to portal.azure.com.
+2. Create a new App in App registrations.
+3. Select WebAPI/Webapp
+4. Copy the application id and generate a new key. Copy the kley to be used in the code.
+5. Click ####### Grant Permissions.
 
 In the below code make following changes:
 
