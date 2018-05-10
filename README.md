@@ -6,7 +6,7 @@ This project contains sample code for making calls from a background job to an a
 2. Create a new App in App registrations.
 3. Select WebAPI/Webapp
 4. Copy the application id and generate a new key. Copy the kley to be used in the code.
-5. Click ####### Grant Permissions.
+5. Click Grant Permissions.
 
 In the below code make following changes:
 
